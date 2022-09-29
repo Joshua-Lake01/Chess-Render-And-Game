@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lakes\source\repos\Chess_Board\Chess_Game\StartUpBoard.h(8,6): warning C4101: 'y': unreferenced local variable
+C:\Users\lakes\source\repos\Chess_Board\Chess_Game\StartUpBoard.h(7,6): warning C4101: 'x': unreferenced local variable
+  Chess_Game.vcxproj -> C:\Users\lakes\source\repos\Chess_Board\Debug\Chess_Game.exe
